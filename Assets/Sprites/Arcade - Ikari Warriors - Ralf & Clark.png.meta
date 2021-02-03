@@ -1,7 +1,127 @@
 fileFormatVersion: 2
 guid: 4a4a1a39ade8ad641bfb8b445b7f5d9d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1528460166593749032
+    second: Arcade - Ikari Warriors - Ralf & Clark_0
+  - first:
+      213: 3523854255534976076
+    second: Arcade - Ikari Warriors - Ralf & Clark_1
+  - first:
+      213: 1024375626278295018
+    second: Arcade - Ikari Warriors - Ralf & Clark_2
+  - first:
+      213: -4146639412387374939
+    second: Arcade - Ikari Warriors - Ralf & Clark_3
+  - first:
+      213: 4066400958468549135
+    second: Arcade - Ikari Warriors - Ralf & Clark_4
+  - first:
+      213: -1055487085801894774
+    second: Arcade - Ikari Warriors - Ralf & Clark_5
+  - first:
+      213: -2403754388116625243
+    second: Arcade - Ikari Warriors - Ralf & Clark_6
+  - first:
+      213: 3364733590474064937
+    second: Arcade - Ikari Warriors - Ralf & Clark_7
+  - first:
+      213: 3809546831322405551
+    second: Arcade - Ikari Warriors - Ralf & Clark_8
+  - first:
+      213: 1329288615975763709
+    second: Arcade - Ikari Warriors - Ralf & Clark_9
+  - first:
+      213: -1105148715938447561
+    second: Arcade - Ikari Warriors - Ralf & Clark_10
+  - first:
+      213: -2237975092351346557
+    second: Arcade - Ikari Warriors - Ralf & Clark_11
+  - first:
+      213: -4389468312923149652
+    second: Arcade - Ikari Warriors - Ralf & Clark_12
+  - first:
+      213: -3812066611153149477
+    second: Arcade - Ikari Warriors - Ralf & Clark_13
+  - first:
+      213: -8887980120245392798
+    second: Arcade - Ikari Warriors - Ralf & Clark_14
+  - first:
+      213: 5330999919797353518
+    second: Arcade - Ikari Warriors - Ralf & Clark_15
+  - first:
+      213: 8618866956649852437
+    second: Arcade - Ikari Warriors - Ralf & Clark_16
+  - first:
+      213: -1156661921193538776
+    second: Arcade - Ikari Warriors - Ralf & Clark_17
+  - first:
+      213: -8479090659065282286
+    second: Arcade - Ikari Warriors - Ralf & Clark_18
+  - first:
+      213: 830576135326696091
+    second: Arcade - Ikari Warriors - Ralf & Clark_19
+  - first:
+      213: -5497911681554428919
+    second: Arcade - Ikari Warriors - Ralf & Clark_20
+  - first:
+      213: 1610635144489506175
+    second: Arcade - Ikari Warriors - Ralf & Clark_21
+  - first:
+      213: -3402258311387980973
+    second: Arcade - Ikari Warriors - Ralf & Clark_22
+  - first:
+      213: 2876808623282733713
+    second: Arcade - Ikari Warriors - Ralf & Clark_23
+  - first:
+      213: 4612934615746717827
+    second: Arcade - Ikari Warriors - Ralf & Clark_24
+  - first:
+      213: -4605019657306898538
+    second: Arcade - Ikari Warriors - Ralf & Clark_25
+  - first:
+      213: -4569979184201420666
+    second: Arcade - Ikari Warriors - Ralf & Clark_26
+  - first:
+      213: 5807667371909690953
+    second: Arcade - Ikari Warriors - Ralf & Clark_27
+  - first:
+      213: -3431338240608554129
+    second: Arcade - Ikari Warriors - Ralf & Clark_28
+  - first:
+      213: 8271011408706608632
+    second: Arcade - Ikari Warriors - Ralf & Clark_29
+  - first:
+      213: -2612080431395143620
+    second: Arcade - Ikari Warriors - Ralf & Clark_30
+  - first:
+      213: -7277090456669292340
+    second: Arcade - Ikari Warriors - Ralf & Clark_31
+  - first:
+      213: -7362150325718349891
+    second: Arcade - Ikari Warriors - Ralf & Clark_32
+  - first:
+      213: -4033311995506899573
+    second: Arcade - Ikari Warriors - Ralf & Clark_33
+  - first:
+      213: -983994527578217309
+    second: Arcade - Ikari Warriors - Ralf & Clark_34
+  - first:
+      213: 8712312722710060289
+    second: Arcade - Ikari Warriors - Ralf & Clark_35
+  - first:
+      213: 1538689204935895393
+    second: Arcade - Ikari Warriors - Ralf & Clark_36
+  - first:
+      213: -4734897103672463529
+    second: Arcade - Ikari Warriors - Ralf & Clark_37
+  - first:
+      213: -7685730090650017701
+    second: Arcade - Ikari Warriors - Ralf & Clark_38
+  - first:
+      213: -2145309146009852568
+    second: Arcade - Ikari Warriors - Ralf & Clark_39
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +152,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,7 +161,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -68,7 +188,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +209,847 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a7236c6e263510800000000000000
+      internalID: 1528460166593749032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c296576ce37e030800000000000000
+      internalID: 3523854255534976076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5d2e86430573e00800000000000000
+      internalID: 1024375626278295018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8140d9c6d2476c0800000000000000
+      internalID: -4146639412387374939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a63d38022ce6830800000000000000
+      internalID: 4066400958468549135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c04c176182a51f0800000000000000
+      internalID: -1055487085801894774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a501ae1624aed0800000000000000
+      internalID: -2403754388116625243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92408089f5fe1be20800000000000000
+      internalID: 3364733590474064937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faadf24c8aa3ed430800000000000000
+      internalID: 3809546831322405551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb43f04f4927210800000000000000
+      internalID: 1329288615975763709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f72822919b9a0f0800000000000000
+      internalID: -1105148715938447561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d934c28d11f0e0800000000000000
+      internalID: -2237975092351346557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caae16763d97513c0800000000000000
+      internalID: -4389468312923149652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e6164d91d81bc0800000000000000
+      internalID: -3812066611153149477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a2a02db2d87a480800000000000000
+      internalID: -8887980120245392798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3825ae248bf940800000000000000
+      internalID: 5330999919797353518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e677515dd5c9770800000000000000
+      internalID: 8618866956649852437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc9066c16b2ffe0800000000000000
+      internalID: -1156661921193538776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211c41048f7345a80800000000000000
+      internalID: -8479090659065282286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928011389cc68b00800000000000000
+      internalID: 830576135326696091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4a7e647e73b3b0800000000000000
+      internalID: -5497911681554428919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759e0261202a5610800000000000000
+      internalID: 1610635144489506175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b599b7710c8c0d0800000000000000
+      internalID: -3402258311387980973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924c8d633a7ce720800000000000000
+      internalID: 2876808623282733713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388afa7b79f640040800000000000000
+      internalID: 4612934615746717827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff786250fa710c0800000000000000
+      internalID: -4605019657306898538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680bebe052c2490c0800000000000000
+      internalID: -4569979184201420666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946bd4454baf89050800000000000000
+      internalID: 5807667371909690953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f633058dc007160d0800000000000000
+      internalID: -3431338240608554129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1925fd0988c270800000000000000
+      internalID: 8271011408706608632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3081f1efa600cbd0800000000000000
+      internalID: -2612080431395143620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc877db09c4920b90800000000000000
+      internalID: -7277090456669292340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7088cf84364d990800000000000000
+      internalID: -7362150325718349891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854d770c1cc608c0800000000000000
+      internalID: -4033311995506899573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a5cac0362852f0800000000000000
+      internalID: -983994527578217309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ddf31f24a58e870800000000000000
+      internalID: 8712312722710060289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169aee7fda58a5510800000000000000
+      internalID: 1538689204935895393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fa397bb244a4eb0800000000000000
+      internalID: -4734897103672463529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50664b043dc65590800000000000000
+      internalID: -7685730090650017701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ikari Warriors - Ralf & Clark_39
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865afa2b2b45a32e0800000000000000
+      internalID: -2145309146009852568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
