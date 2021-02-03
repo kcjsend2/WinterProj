@@ -1,0 +1,2700 @@
+fileFormatVersion: 2
+guid: 6ca9d06b97e943a40a5dead39f50a790
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -89003142069277356
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_6
+  - first:
+      213: -5805426475643019843
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_7
+  - first:
+      213: 885597212000359419
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_8
+  - first:
+      213: -5685386480658727886
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_9
+  - first:
+      213: 1872304452665231038
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_10
+  - first:
+      213: -5541866988916124613
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_11
+  - first:
+      213: 3085560623224190143
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_12
+  - first:
+      213: 2559338741725884547
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_16
+  - first:
+      213: 5735211187842053424
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_17
+  - first:
+      213: 8060247178330650930
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_18
+  - first:
+      213: -6498073833203181042
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_19
+  - first:
+      213: -5452738358791841113
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_20
+  - first:
+      213: 6750213586160859073
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_21
+  - first:
+      213: 879675121053547434
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_22
+  - first:
+      213: 4074399311581273657
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_23
+  - first:
+      213: 6461072143388834297
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_24
+  - first:
+      213: -9026431439056415673
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_25
+  - first:
+      213: 3867764471470014417
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_26
+  - first:
+      213: 2659937868940685398
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_27
+  - first:
+      213: -6077315191988409048
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_28
+  - first:
+      213: 1718102155195797714
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_29
+  - first:
+      213: 6593523166085357293
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_30
+  - first:
+      213: 8726568095539782033
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_31
+  - first:
+      213: 4694314773265917058
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_32
+  - first:
+      213: 1410746384933731720
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_33
+  - first:
+      213: -2744215778059069628
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_34
+  - first:
+      213: -5555244449428961213
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_35
+  - first:
+      213: -7745572327295714555
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_36
+  - first:
+      213: -1316281447861125878
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_37
+  - first:
+      213: 493178007598642341
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_38
+  - first:
+      213: 8456275658728540218
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_58
+  - first:
+      213: -7818815651647751851
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_59
+  - first:
+      213: 5416226624364685171
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_60
+  - first:
+      213: 7524604476524617796
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_61
+  - first:
+      213: -7951998091776071090
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_62
+  - first:
+      213: 1477790748826717816
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_63
+  - first:
+      213: -897624521110695594
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_64
+  - first:
+      213: -3980923688678030820
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_65
+  - first:
+      213: -5405012547485422395
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_66
+  - first:
+      213: 149212173762040959
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_67
+  - first:
+      213: 2445955134793256260
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_68
+  - first:
+      213: 2452284877686047323
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_69
+  - first:
+      213: -6344074854509172297
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_70
+  - first:
+      213: 9064312564898746593
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_71
+  - first:
+      213: 4259969195893761697
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_76
+  - first:
+      213: 4231894151280788506
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_77
+  - first:
+      213: -5930679444933763007
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_78
+  - first:
+      213: -3495274103316008388
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_79
+  - first:
+      213: -4180851703849696669
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_80
+  - first:
+      213: -6139509950505528260
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_82
+  - first:
+      213: 7500788042418192326
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_83
+  - first:
+      213: -295425681158386078
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_84
+  - first:
+      213: -2538249325358373288
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_85
+  - first:
+      213: -1696642179508097813
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_86
+  - first:
+      213: -4124389042202852210
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_87
+  - first:
+      213: -3822681681504424536
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_88
+  - first:
+      213: 4608177756746175252
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_89
+  - first:
+      213: 1848180718592404995
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_90
+  - first:
+      213: -1023653054784600066
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_91
+  - first:
+      213: -7840426171210443705
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_92
+  - first:
+      213: -6989101918052808420
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_93
+  - first:
+      213: -2949389772973927106
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_94
+  - first:
+      213: -1266548831117159242
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_112
+  - first:
+      213: 6158042740174624560
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_113
+  - first:
+      213: 5716977421725234990
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_114
+  - first:
+      213: -4679808444584019689
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_115
+  - first:
+      213: -836676515025840127
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_116
+  - first:
+      213: -3740123839664418088
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_117
+  - first:
+      213: -7436962637122153874
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_118
+  - first:
+      213: 8782977801346751275
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_119
+  - first:
+      213: 5807956094801315315
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_120
+  - first:
+      213: 4641693152440442396
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_121
+  - first:
+      213: 9023735428805971860
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_122
+  - first:
+      213: 2865374604113310932
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_123
+  - first:
+      213: 4653948436637490027
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_124
+  - first:
+      213: 3179628524464124947
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_125
+  - first:
+      213: 8312785651769630905
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_126
+  - first:
+      213: 1402183145340407391
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_127
+  - first:
+      213: 4177396477134844813
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_128
+  - first:
+      213: 5944992653540434022
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_129
+  - first:
+      213: -8987717858643251044
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_130
+  - first:
+      213: 3449032915931058967
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_131
+  - first:
+      213: 1577763706279631449
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_132
+  - first:
+      213: 7237457857475633040
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_133
+  - first:
+      213: 6924457629878809756
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_134
+  - first:
+      213: 1481318524647725843
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_135
+  - first:
+      213: 8025418888026772498
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_136
+  - first:
+      213: 1039582163058396889
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_137
+  - first:
+      213: -2438886680499376417
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_138
+  - first:
+      213: -423590228057727743
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_139
+  - first:
+      213: 4653825294029817362
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_140
+  - first:
+      213: 898508680570193677
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_141
+  - first:
+      213: -4783040640969658953
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_142
+  - first:
+      213: -2310548403258546051
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_143
+  - first:
+      213: -3047330455069810179
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_144
+  - first:
+      213: 5403323615048898771
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_145
+  - first:
+      213: 1473981372308074187
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_146
+  - first:
+      213: -4880303211217300435
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_147
+  - first:
+      213: -5172039102650580845
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_155
+  - first:
+      213: 3326421213632220680
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_156
+  - first:
+      213: 6615271121667650982
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_157
+  - first:
+      213: 8272355979437166551
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_158
+  - first:
+      213: -176978270533522030
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_159
+  - first:
+      213: 770644536544083468
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_160
+  - first:
+      213: 6189228471317495280
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_161
+  - first:
+      213: -9046271982738010631
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_162
+  - first:
+      213: -8660595514664021726
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_163
+  - first:
+      213: 1360087813358880320
+    second: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_164
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 421
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d21152d1cc3cef0800000000000000
+      internalID: -89003142069277356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 421
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd56adf06bfe6fa0800000000000000
+      internalID: -5805426475643019843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 421
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf39b53e8f54a4c00800000000000000
+      internalID: 885597212000359419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 421
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c37894e137911b0800000000000000
+      internalID: -5685386480658727886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 421
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb64e74daf2cbf910800000000000000
+      internalID: 1872304452665231038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 421
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d03de5555713b0800000000000000
+      internalID: -5541866988916124613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4f530f90d12da20800000000000000
+      internalID: 3085560623224190143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38077709609948320800000000000000
+      internalID: 2559338741725884547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 384
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035fb2b5030979f40800000000000000
+      internalID: 5735211187842053424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 384
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2393e3a8a10cbdf60800000000000000
+      internalID: 8060247178330650930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 384
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ad9a7e64432d5a0800000000000000
+      internalID: -6498073833203181042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad01f3a5bf354b0800000000000000
+      internalID: -5452738358791841113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c732211e739dad50800000000000000
+      internalID: 6750213586160859073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 357
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab3524acdb353c00800000000000000
+      internalID: 879675121053547434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 357
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ed5e7369c2b8830800000000000000
+      internalID: 4074399311581273657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 357
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9fcd6d1e65aa950800000000000000
+      internalID: 6461072143388834297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 357
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744df952e6cabb280800000000000000
+      internalID: -9026431439056415673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 357
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb8d46b4f0da530800000000000000
+      internalID: 3867764471470014417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 357
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b1da166ff9e420800000000000000
+      internalID: 2659937868940685398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d2279280a09aba0800000000000000
+      internalID: -6077315191988409048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d05748aecce7d710800000000000000
+      internalID: 1718102155195797714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee93d4b266e08b50800000000000000
+      internalID: 6593523166085357293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191e7e2927ffa1970800000000000000
+      internalID: 8726568095539782033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 330
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284226c2a6e852140800000000000000
+      internalID: 4694314773265917058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3426dc5af39310800000000000000
+      internalID: 1410746384933731720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44754c11a469ae9d0800000000000000
+      internalID: -2744215778059069628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 330
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348835f2b9ec7e2b0800000000000000
+      internalID: -5555244449428961213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 330
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b71719103328490800000000000000
+      internalID: -7745572327295714555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 330
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dfcc34ff0abbde0800000000000000
+      internalID: -1316281447861125878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 330
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b3f1f8ce18d600800000000000000
+      internalID: 493178007598642341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 290
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a380c4988e9ba5570800000000000000
+      internalID: 8456275658728540218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 290
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5597547379cfd7390800000000000000
+      internalID: -7818815651647751851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 290
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37725402b6d4a2b40800000000000000
+      internalID: 5416226624364685171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 290
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440609287e3cc6860800000000000000
+      internalID: 7524604476524617796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 290
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a6a15fdd3d4a190800000000000000
+      internalID: -7951998091776071090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 290
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ecc2c3bda228410800000000000000
+      internalID: 1477790748826717816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 290
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651548df04ffa83f0800000000000000
+      internalID: -897624521110695594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 290
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12886a3ffae0c8c0800000000000000
+      internalID: -3980923688678030820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2a9c99b98df4b0800000000000000
+      internalID: -5405012547485422395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 263
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7410457eab121200800000000000000
+      internalID: 149212173762040959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d05e16c37c1f120800000000000000
+      internalID: 2445955134793256260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 263
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b520a8e7a14480220800000000000000
+      internalID: 2452284877686047323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 263
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b92e7c388155f7a0800000000000000
+      internalID: -6344074854509172297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 263
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e056e3c048eacd70800000000000000
+      internalID: 9064312564898746593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 225
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6aa53d9637e1b30800000000000000
+      internalID: 4259969195893761697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 225
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14052e1f45baba30800000000000000
+      internalID: 4231894151280788506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_78
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 225
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402308877ef1bda0800000000000000
+      internalID: -5930679444933763007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_79
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 225
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323a37c8ba4e7fc0800000000000000
+      internalID: -3495274103316008388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362c375c681aaf5c0800000000000000
+      internalID: -4180851703849696669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 185
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3454218a341ccaa0800000000000000
+      internalID: -6139509950505528260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_83
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 185
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf75d3dbf6281860800000000000000
+      internalID: 7500788042418192326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_84
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 185
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ec60188ef66ebf0800000000000000
+      internalID: -295425681158386078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856a3a2dfa356ccd0800000000000000
+      internalID: -2538249325358373288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca97b4de05478e0800000000000000
+      internalID: -1696642179508097813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_87
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e844cff940a33c6c0800000000000000
+      internalID: -4124389042202852210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_88
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad298c934b13fac0800000000000000
+      internalID: -3822681681504424536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_89
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41356bc214983ff30800000000000000
+      internalID: 4608177756746175252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2d6c429e06a910800000000000000
+      internalID: 1848180718592404995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_91
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7025068f04bc1f0800000000000000
+      internalID: -1023653054784600066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_92
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 185
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744535900f5313390800000000000000
+      internalID: -7840426171210443705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19067bd5d8b10f90800000000000000
+      internalID: -6989101918052808420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3518b5c0a9a117d0800000000000000
+      internalID: -2949389772973927106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 146
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4539e6c805c6ee0800000000000000
+      internalID: -1266548831117159242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_113
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 146
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03718c7de33c57550800000000000000
+      internalID: 6158042740174624560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_114
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277cdadca8c65f40800000000000000
+      internalID: 5716977421725234990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 146
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71932bba30bfd0fb0800000000000000
+      internalID: -4679808444584019689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_116
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 146
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10819f974278364f0800000000000000
+      internalID: -836676515025840127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_117
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 146
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d215d01f29681cc0800000000000000
+      internalID: -3740123839664418088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_118
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 146
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e625b7e52e99ac890800000000000000
+      internalID: -7436962637122153874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_119
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 146
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b1a6fa6c763e970800000000000000
+      internalID: 8782977801346751275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 121
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f582bddb410a9050800000000000000
+      internalID: 5807956094801315315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5393545b9a6040800000000000000
+      internalID: 4641693152440442396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_122
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f461d009fba3d70800000000000000
+      internalID: 9023735428805971860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_123
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d47992650bd3c720800000000000000
+      internalID: 2865374604113310932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_124
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b13c80275269040800000000000000
+      internalID: 4653948436637490027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314326eeb4f402c20800000000000000
+      internalID: 3179628524464124947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_126
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 121
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b061bbd182fc5370800000000000000
+      internalID: 8312785651769630905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_127
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0e00442e857310800000000000000
+      internalID: 1402183145340407391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_128
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 121
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83379196f719f930800000000000000
+      internalID: 4177396477134844813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_129
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a59a025bd08250800000000000000
+      internalID: 5944992653540434022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_130
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90722ef936354380800000000000000
+      internalID: -8987717858643251044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71353bcc92d6ddf20800000000000000
+      internalID: 3449032915931058967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_132
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a1d444bb755e510800000000000000
+      internalID: 1577763706279631449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_133
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fd1bf539d907460800000000000000
+      internalID: 7237457857475633040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_134
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c947b2be68d981060800000000000000
+      internalID: 6924457629878809756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_135
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 97
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b55dc8953be8410800000000000000
+      internalID: 1481318524647725843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214db8a45f3006f60800000000000000
+      internalID: 8025418888026772498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_137
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de8de728765d6e00800000000000000
+      internalID: 1039582163058396889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_138
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde27616c75572ed0800000000000000
+      internalID: -2438886680499376417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_139
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dda4e8eea1f1af0800000000000000
+      internalID: -423590228057727743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_140
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 74
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2160069a275b59040800000000000000
+      internalID: 4653825294029817362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_141
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 74
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07cdfc62e4287c00800000000000000
+      internalID: 898508680570193677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_142
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 74
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2fb0f0e93f9db0800000000000000
+      internalID: -4783040640969658953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_143
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 74
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ad6318784fefd0800000000000000
+      internalID: -2310548403258546051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 51
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a558b815b5b5d0800000000000000
+      internalID: -3047330455069810179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_145
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8187923367cfa40800000000000000
+      internalID: 5403323615048898771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_146
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce27f5af32a47410800000000000000
+      internalID: 1473981372308074187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_147
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24d13b161ea54cb0800000000000000
+      internalID: -4880303211217300435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_155
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390051ab6d93938b0800000000000000
+      internalID: -5172039102650580845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4fdb3872d92e20800000000000000
+      internalID: 3326421213632220680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_157
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a576e3390a2ecb50800000000000000
+      internalID: 6615271121667650982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_158
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df4ee93fef4dc270800000000000000
+      internalID: 8272355979437166551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29de2eb533f3b8df0800000000000000
+      internalID: -176978270533522030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_160
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e3ec87f11e1ba00800000000000000
+      internalID: 770644536544083468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_161
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdfc92b08e84e550800000000000000
+      internalID: 6189228471317495280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_162
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd05579f8f257280800000000000000
+      internalID: -9046271982738010631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_163
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211c15e3426fc780800000000000000
+      internalID: -8660595514664021726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Enter_the_Gungeon_-_Bullet_Kin_164
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 20
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046089209a000e210800000000000000
+      internalID: 1360087813358880320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
