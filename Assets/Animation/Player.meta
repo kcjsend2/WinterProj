@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 60809ecb44ad441478a07588cd70b419
+=======
+guid: 93df45a2c7f2ed142b10fe37740b2497
+>>>>>>> parent of 03da496... Revert "애니메이션 완성"
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -41,51 +41,38 @@ public class PlayerBehavior : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.A))
         {
             m_animator.SetInteger("WalkDir", (int)PlayerDir.Left);
-            if (Input.GetKeyDown(KeyCode.S))
-            {
-                m_animator.SetInteger("WalkDir", (int)PlayerDir.LeftDown);
-            }
-            else if (Input.GetKeyDown(KeyCode.W))
-            {
-                m_animator.SetInteger("WalkDir", (int)PlayerDir.LeftUp);
-            }
         }
-        else if (Input.GetKeyDown(KeyCode.D))
+
+        if (Input.GetKeyDown(KeyCode.D))
         {
             m_animator.SetInteger("WalkDir", (int)PlayerDir.Right);
-            if (Input.GetKeyDown(KeyCode.S))
-            {
-                m_animator.SetInteger("WalkDir", (int)PlayerDir.RightDown);
-            }
-            else if (Input.GetKeyDown(KeyCode.W))
-            {
-                m_animator.SetInteger("WalkDir", (int)PlayerDir.RightUp);
-            }
         }
 
         if (Input.GetKeyDown(KeyCode.S))
         {
             m_animator.SetInteger("WalkDir", (int)PlayerDir.Down);
-            if (Input.GetKeyDown(KeyCode.A))
-            {
-                m_animator.SetInteger("WalkDir", (int)PlayerDir.LeftDown);
-            }
-            else if (Input.GetKeyDown(KeyCode.D))
-            {
-                m_animator.SetInteger("WalkDir", (int)PlayerDir.RightDown);
-            }
         }
-        else if (Input.GetKeyDown(KeyCode.W))
+
+        if (Input.GetKeyDown(KeyCode.W))
         {
             m_animator.SetInteger("WalkDir", (int)PlayerDir.Up);
-            if (Input.GetKeyDown(KeyCode.A))
-            {
-                m_animator.SetInteger("WalkDir", (int)PlayerDir.LeftUp);
-            }
-            else if (Input.GetKeyDown(KeyCode.D))
-            {
-                m_animator.SetInteger("WalkDir", (int)PlayerDir.RightUp);
-            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.W) && Input.GetKeyDown(KeyCode.A))
+        {
+            m_animator.SetInteger("WalkDir", (int)PlayerDir.LeftUp);
+        }
+        if (Input.GetKeyDown(KeyCode.W) && Input.GetKeyDown(KeyCode.D))
+        {
+            m_animator.SetInteger("WalkDir", (int)PlayerDir.RightUp);
+        }
+        if (Input.GetKeyDown(KeyCode.S) && Input.GetKeyDown(KeyCode.A))
+        {
+            m_animator.SetInteger("WalkDir", (int)PlayerDir.LeftDown);
+        }
+        if (Input.GetKeyDown(KeyCode.S) && Input.GetKeyDown(KeyCode.D))
+        {
+            m_animator.SetInteger("WalkDir", (int)PlayerDir.RightDown);
         }
     }
 }
