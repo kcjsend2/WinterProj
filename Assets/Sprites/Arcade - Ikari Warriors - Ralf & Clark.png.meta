@@ -803,7 +803,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 336
-        y: 45
+        y: 44
         width: 32
         height: 32
       alignment: 0
@@ -823,8 +823,8 @@ TextureImporter:
       name: Arcade - Ikari Warriors - Ralf & Clark_29
       rect:
         serializedVersion: 2
-        x: 375
-        y: 45
+        x: 376
+        y: 44
         width: 32
         height: 32
       alignment: 0

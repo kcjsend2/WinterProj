@@ -2,23 +2,28 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum PlayerDir
+public enum PlayerHdir
 { 
     neutral = 0,
     Left,
-    LeftUp,
-    Up,
-    RightUp,
     Right,
-    RightDown,
+}
+
+public enum PlayerVdir
+{
+    neutral = 0,
+    Up,
     Down,
-    LeftDown
 }
 
 public class PlayerBehavior : MonoBehaviour
 {
     private Animator m_animator;
-    private PlayerDir prevDir;
+    private Queue m_keyQueue = new Queue();
+    private PlayerHdir m_hdir = 0;
+    private PlayerVdir m_vdir = 0;
+    private PlayerHdir m_prev_hdir = 0;
+    private PlayerVdir m_prev_vdir = 0;
 
     private void Awake()
     {
@@ -28,51 +33,52 @@ public class PlayerBehavior : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
+        KeyEvent();
         PlayerMove();
+    }
+    private void KeyEvent()
+    {
+        m_keyQueue.Enqueue(Input.inputString);
     }
 
     private void PlayerMove()
     {
-        if (Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.W))
+        switch (m_keyQueue.Dequeue())
         {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.neutral);
+            case "W":
+            case "w":
+                m_vdir = PlayerVdir.Up;
+                break;
+
+            case "A":
+            case "a":
+                m_hdir = PlayerHdir.Left;
+                break;
+
+            case "S":
+            case "s":
+                m_vdir = PlayerVdir.Down;
+                break;
+
+            case "D":
+            case "d":
+                m_hdir = PlayerHdir.Right;
+                break;
         }
 
-        if (Input.GetKeyDown(KeyCode.A))
+        if(m_prev_hdir != m_hdir)
+            m_animator.SetInteger("WalkHdir", (int)m_hdir);
+
+        if(m_prev_vdir != m_vdir)
+            m_animator.SetInteger("WalkVdir", (int)m_vdir);
+
+        if (!Input.anyKeyDown)
         {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.Left);
+            m_hdir = PlayerHdir.neutral;
+            m_vdir = PlayerVdir.neutral;
         }
 
-        if (Input.GetKeyDown(KeyCode.D))
-        {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.Right);
-        }
-
-        if (Input.GetKeyDown(KeyCode.S))
-        {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.Down);
-        }
-
-        if (Input.GetKeyDown(KeyCode.W))
-        {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.Up);
-        }
-
-        if (Input.GetKeyDown(KeyCode.W) && Input.GetKeyDown(KeyCode.A))
-        {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.LeftUp);
-        }
-        if (Input.GetKeyDown(KeyCode.W) && Input.GetKeyDown(KeyCode.D))
-        {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.RightUp);
-        }
-        if (Input.GetKeyDown(KeyCode.S) && Input.GetKeyDown(KeyCode.A))
-        {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.LeftDown);
-        }
-        if (Input.GetKeyDown(KeyCode.S) && Input.GetKeyDown(KeyCode.D))
-        {
-            m_animator.SetInteger("WalkDir", (int)PlayerDir.RightDown);
-        }
+        m_prev_hdir = m_hdir;
+        m_prev_vdir = m_vdir;
     }
 }
