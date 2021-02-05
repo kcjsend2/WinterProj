@@ -4,36 +4,42 @@ using UnityEngine;
 
 public class MobMovement : MonoBehaviour
 {
-    float rightMax = 2.0f; //좌로 이동가능한 (x)최대값
-    float leftMax = -2.0f; //우로 이동가능한 (x)최대값
-    float currentPosition; //현재 위치(x) 저장
-    float direction = 1.0f; //이동속도+방향
+    public float movePower = 1f;
+    Animator animator;
+    Vector3 movement;
+    int movementFlag = 0;
 
     void Start()
 
     {
-        currentPosition = transform.position.x;
+        animator = gameObject.GetComponentInChildren<Animator>();
+
+        StartCoroutine("ChangeMovement");
     }
 
-    void Update()
-
+    IEnumerator ChangeMovement()
     {
-        currentPosition += Time.deltaTime * direction;
-        if (currentPosition >= rightMax) //현재 위치(x)가 우로 이동가능한 (x)최대값보다 크거나 같다면
-
+        Debug.Log("Front Logic : " + Time.time);
+        yield return new WaitForSeconds(5f);
+        Debug.Log("behind Logic : " + Time.time);
+    }
+    void FixedUpdate ()
+    {
+        Move();
+    }
+    void Move ()
+    {
+        Vector3 moveVelocity = Vector3.zero;
+        if (movementFlag == 1)
         {
-            direction *= -1; //이동속도+방향에 -1을 곱해 반전
-            currentPosition = rightMax; //현재위치를 우로 이동가능한 (x)최대값으로 설정
+            moveVelocity = Vector3.left;
+            transform.localScale = new Vector3(1, 1, 1);
         }
-
-        else if (currentPosition <= leftMax) //현재 위치(x)가 좌로 이동가능한 (x)최대값보다 크거나 같다면
-
+        else if (movementFlag == 2)
         {
-            direction *= -1; //이동속도+방향에 -1을 곱해 반전
-            currentPosition = leftMax; //현재위치를 좌로 이동가능한 (x)최대값으로 설정
+            moveVelocity = Vector3.right;
+            transform.localScale = new Vector3(-1, 1, 1);
         }
-
-        transform.position = new Vector3(currentPosition, 0, 0); //위치를 계산된 현재위치로 처리
-
+        transform.position += moveVelocity * movePower * Time.deltaTime;
     }
 }
